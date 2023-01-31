@@ -1,0 +1,14 @@
+C:\Users\javie\Desktop\DAW\Programación\FicherosDeTexto\FicherosTexto\FicherosTexto\bin\Debug\netcoreapp3.1\FicherosTexto.exe
+C:\Users\javie\Desktop\DAW\Programación\FicherosDeTexto\FicherosTexto\FicherosTexto\bin\Debug\netcoreapp3.1\FicherosTexto.deps.json
+C:\Users\javie\Desktop\DAW\Programación\FicherosDeTexto\FicherosTexto\FicherosTexto\bin\Debug\netcoreapp3.1\FicherosTexto.runtimeconfig.json
+C:\Users\javie\Desktop\DAW\Programación\FicherosDeTexto\FicherosTexto\FicherosTexto\bin\Debug\netcoreapp3.1\FicherosTexto.runtimeconfig.dev.json
+C:\Users\javie\Desktop\DAW\Programación\FicherosDeTexto\FicherosTexto\FicherosTexto\bin\Debug\netcoreapp3.1\FicherosTexto.dll
+C:\Users\javie\Desktop\DAW\Programación\FicherosDeTexto\FicherosTexto\FicherosTexto\bin\Debug\netcoreapp3.1\FicherosTexto.pdb
+C:\Users\javie\Desktop\DAW\Programación\FicherosDeTexto\FicherosTexto\FicherosTexto\obj\Debug\netcoreapp3.1\FicherosTexto.csproj.AssemblyReference.cache
+C:\Users\javie\Desktop\DAW\Programación\FicherosDeTexto\FicherosTexto\FicherosTexto\obj\Debug\netcoreapp3.1\FicherosTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\Desktop\DAW\Programación\FicherosDeTexto\FicherosTexto\FicherosTexto\obj\Debug\netcoreapp3.1\FicherosTexto.AssemblyInfoInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\FicherosDeTexto\FicherosTexto\FicherosTexto\obj\Debug\netcoreapp3.1\FicherosTexto.AssemblyInfo.cs
+C:\Users\javie\Desktop\DAW\Programación\FicherosDeTexto\FicherosTexto\FicherosTexto\obj\Debug\netcoreapp3.1\FicherosTexto.csproj.CoreCompileInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\FicherosDeTexto\FicherosTexto\FicherosTexto\obj\Debug\netcoreapp3.1\FicherosTexto.dll
+C:\Users\javie\Desktop\DAW\Programación\FicherosDeTexto\FicherosTexto\FicherosTexto\obj\Debug\netcoreapp3.1\FicherosTexto.pdb
+C:\Users\javie\Desktop\DAW\Programación\FicherosDeTexto\FicherosTexto\FicherosTexto\obj\Debug\netcoreapp3.1\FicherosTexto.genruntimeconfig.cache
