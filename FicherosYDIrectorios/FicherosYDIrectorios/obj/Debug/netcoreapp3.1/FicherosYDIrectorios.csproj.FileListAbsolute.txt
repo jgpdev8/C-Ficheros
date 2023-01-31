@@ -1,0 +1,14 @@
+C:\Users\javie\Desktop\DAW\Programación\FicherosyDirectorios\FicherosYDIrectorios\FicherosYDIrectorios\bin\Debug\netcoreapp3.1\FicherosYDIrectorios.exe
+C:\Users\javie\Desktop\DAW\Programación\FicherosyDirectorios\FicherosYDIrectorios\FicherosYDIrectorios\bin\Debug\netcoreapp3.1\FicherosYDIrectorios.deps.json
+C:\Users\javie\Desktop\DAW\Programación\FicherosyDirectorios\FicherosYDIrectorios\FicherosYDIrectorios\bin\Debug\netcoreapp3.1\FicherosYDIrectorios.runtimeconfig.json
+C:\Users\javie\Desktop\DAW\Programación\FicherosyDirectorios\FicherosYDIrectorios\FicherosYDIrectorios\bin\Debug\netcoreapp3.1\FicherosYDIrectorios.runtimeconfig.dev.json
+C:\Users\javie\Desktop\DAW\Programación\FicherosyDirectorios\FicherosYDIrectorios\FicherosYDIrectorios\bin\Debug\netcoreapp3.1\FicherosYDIrectorios.dll
+C:\Users\javie\Desktop\DAW\Programación\FicherosyDirectorios\FicherosYDIrectorios\FicherosYDIrectorios\bin\Debug\netcoreapp3.1\FicherosYDIrectorios.pdb
+C:\Users\javie\Desktop\DAW\Programación\FicherosyDirectorios\FicherosYDIrectorios\FicherosYDIrectorios\obj\Debug\netcoreapp3.1\FicherosYDIrectorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\Desktop\DAW\Programación\FicherosyDirectorios\FicherosYDIrectorios\FicherosYDIrectorios\obj\Debug\netcoreapp3.1\FicherosYDIrectorios.AssemblyInfoInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\FicherosyDirectorios\FicherosYDIrectorios\FicherosYDIrectorios\obj\Debug\netcoreapp3.1\FicherosYDIrectorios.AssemblyInfo.cs
+C:\Users\javie\Desktop\DAW\Programación\FicherosyDirectorios\FicherosYDIrectorios\FicherosYDIrectorios\obj\Debug\netcoreapp3.1\FicherosYDIrectorios.csproj.CoreCompileInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\FicherosyDirectorios\FicherosYDIrectorios\FicherosYDIrectorios\obj\Debug\netcoreapp3.1\FicherosYDIrectorios.dll
+C:\Users\javie\Desktop\DAW\Programación\FicherosyDirectorios\FicherosYDIrectorios\FicherosYDIrectorios\obj\Debug\netcoreapp3.1\FicherosYDIrectorios.pdb
+C:\Users\javie\Desktop\DAW\Programación\FicherosyDirectorios\FicherosYDIrectorios\FicherosYDIrectorios\obj\Debug\netcoreapp3.1\FicherosYDIrectorios.genruntimeconfig.cache
+C:\Users\javie\Desktop\DAW\Programación\FicherosyDirectorios\FicherosYDIrectorios\FicherosYDIrectorios\obj\Debug\netcoreapp3.1\FicherosYDIrectorios.csproj.AssemblyReference.cache
