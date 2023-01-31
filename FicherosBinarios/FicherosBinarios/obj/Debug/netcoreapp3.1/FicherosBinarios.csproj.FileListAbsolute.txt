@@ -1,0 +1,14 @@
+C:\Users\javie\Desktop\DAW\Programación\FicherosBinarios\FicherosBinarios\FicherosBinarios\bin\Debug\netcoreapp3.1\FicherosBinarios.exe
+C:\Users\javie\Desktop\DAW\Programación\FicherosBinarios\FicherosBinarios\FicherosBinarios\bin\Debug\netcoreapp3.1\FicherosBinarios.deps.json
+C:\Users\javie\Desktop\DAW\Programación\FicherosBinarios\FicherosBinarios\FicherosBinarios\bin\Debug\netcoreapp3.1\FicherosBinarios.runtimeconfig.json
+C:\Users\javie\Desktop\DAW\Programación\FicherosBinarios\FicherosBinarios\FicherosBinarios\bin\Debug\netcoreapp3.1\FicherosBinarios.runtimeconfig.dev.json
+C:\Users\javie\Desktop\DAW\Programación\FicherosBinarios\FicherosBinarios\FicherosBinarios\bin\Debug\netcoreapp3.1\FicherosBinarios.dll
+C:\Users\javie\Desktop\DAW\Programación\FicherosBinarios\FicherosBinarios\FicherosBinarios\bin\Debug\netcoreapp3.1\FicherosBinarios.pdb
+C:\Users\javie\Desktop\DAW\Programación\FicherosBinarios\FicherosBinarios\FicherosBinarios\obj\Debug\netcoreapp3.1\FicherosBinarios.csproj.AssemblyReference.cache
+C:\Users\javie\Desktop\DAW\Programación\FicherosBinarios\FicherosBinarios\FicherosBinarios\obj\Debug\netcoreapp3.1\FicherosBinarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\Desktop\DAW\Programación\FicherosBinarios\FicherosBinarios\FicherosBinarios\obj\Debug\netcoreapp3.1\FicherosBinarios.AssemblyInfoInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\FicherosBinarios\FicherosBinarios\FicherosBinarios\obj\Debug\netcoreapp3.1\FicherosBinarios.AssemblyInfo.cs
+C:\Users\javie\Desktop\DAW\Programación\FicherosBinarios\FicherosBinarios\FicherosBinarios\obj\Debug\netcoreapp3.1\FicherosBinarios.csproj.CoreCompileInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\FicherosBinarios\FicherosBinarios\FicherosBinarios\obj\Debug\netcoreapp3.1\FicherosBinarios.dll
+C:\Users\javie\Desktop\DAW\Programación\FicherosBinarios\FicherosBinarios\FicherosBinarios\obj\Debug\netcoreapp3.1\FicherosBinarios.pdb
+C:\Users\javie\Desktop\DAW\Programación\FicherosBinarios\FicherosBinarios\FicherosBinarios\obj\Debug\netcoreapp3.1\FicherosBinarios.genruntimeconfig.cache
